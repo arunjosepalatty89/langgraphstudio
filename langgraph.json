@@ -1,0 +1,7 @@
+{
+  "graphs": {
+    "default": {
+      "entrypoint": "graph:graph_app"
+    }
+  }
+}
